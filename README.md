@@ -1,4 +1,4 @@
-# MATH156-Image-Captioning
+# image-captioner
 
 Final Project for Math 156: Machine Learning at UCLA in Winter 2023
 
