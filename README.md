@@ -1,6 +1,6 @@
 # image-captioner
 
-Final Project for Math 156: Machine Learning at UCLA in Winter 2023
+*Final Project for Math 156: Machine Learning at UCLA in Winter 2023*
 
 Abstract. This project aims to develop an image caption generation model that uses a pre-trained
 convolutional neural network (CNN) as an image encoder and a recurrent neural network (RNN) as a text
